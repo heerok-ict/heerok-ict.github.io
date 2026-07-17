@@ -9,7 +9,7 @@ redirect_from:
 
 I am a computer network and data communications professional with experience planning, designing, evaluating, integrating, and operating resilient information and communication system networks. I currently serve as **Assistant Manager (Network)** at **Bangladesh Data Center Company Limited (BDCCL)**, supporting national-scale data centre, cloud, backbone, and hybrid-connectivity services.
 
-My background aligns with the network-system stream of Canada's **[NOC 21311 - Computer engineers (except software engineers and designers)](https://noc.esdc.gc.ca/Structure/NOCProfile?code=21311&version=2021.0)**. I am targeting Canada-based opportunities in network infrastructure engineering, network systems engineering, data communications, network architecture, and fibre-optic network design.
+My professional focus is network infrastructure engineering, network systems engineering, data communications, network architecture, and fibre-optic network design.
 
 Professional Value
 ======

@@ -16,7 +16,7 @@ Computer network and data communications professional with experience researchin
 
 Background includes network architecture, Data Center Interconnect, fibre-optic transport, capacity and performance assessment, cloud networking, enterprise routing, resilience engineering, technical documentation, vendor coordination, and operational handover. Holds an M.Sc. in Computer Science specializing in Computer Network and Architecture, with a 3.96/4.00 CGPA and Summa Cum Laude distinction.
 
-**Canadian occupational target:** Network infrastructure engineer, network systems engineer, network architect, data communications specialist, network support engineer, and fibre-optic network designer roles aligned with **[NOC 21311](https://noc.esdc.gc.ca/Structure/NOCProfile?code=21311&version=2021.0)**, TEER 1.
+**Professional focus:** Network infrastructure engineering, network systems engineering, network architecture, data communications, network support, and fibre-optic network design.
 
 Core Qualifications
 ======
