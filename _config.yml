@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-CA"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Heerok Mutsuddy"
 title_separator          : "-"
 name                     : &name "Heerok Mutsuddy"
-description              : &description "Professional portfolio of Heerok Mutsuddy, Assistant Manager (Network) at Bangladesh Data Center Company Limited."
+description              : &description "Canadian-focused professional portfolio of Heerok Mutsuddy, a network infrastructure and data communications professional aligned with NOC 21311."
 url                      : https://heerok.me # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           :
   name             : "Heerok Mutsuddy"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Manager (Network) at Bangladesh Data Center Company Limited. Data center, cloud, DCI, OCI, and network architecture."
+  bio              : "Network infrastructure and data communications professional specializing in data centres, cloud connectivity, fibre-optic DCI, and resilient network architecture."
   location         : "Bangladesh"
   employer         : "Bangladesh Data Center Company Limited (BDCCL)"
   uri              : "https://heerok.me"

@@ -7,26 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a data center, cloud, and network infrastructure professional working as **Assistant Manager (Network)** at **Bangladesh Data Center Company Limited (BDCCL)**. My work focuses on resilient network architecture, data center interconnect, hybrid cloud connectivity, optical transport, and operational networking for mission-critical platforms.
+I am a computer network and data communications professional with experience planning, designing, evaluating, integrating, and operating resilient information and communication system networks. I currently serve as **Assistant Manager (Network)** at **Bangladesh Data Center Company Limited (BDCCL)**, supporting national-scale data centre, cloud, backbone, and hybrid-connectivity services.
 
-My technical focus spans Oracle Cloud Infrastructure networking, FastConnect, DRG, LPG, IPSec VPN, MPLS, DWDM, dark fiber, routing, network security, and AS141773 operations. I write about practical architecture patterns and field lessons from cloud networking, secure connectivity, DCI, and production troubleshooting.
+My background aligns with the network-system stream of Canada's **[NOC 21311 - Computer engineers (except software engineers and designers)](https://noc.esdc.gc.ca/Structure/NOCProfile?code=21311&version=2021.0)**. I am targeting Canada-based opportunities in network infrastructure engineering, network systems engineering, data communications, network architecture, and fibre-optic network design.
 
-Focus Areas
+Professional Value
 ======
 
-* Data center networking and operations
-* Cloud network architecture and OCI networking
-* Hybrid connectivity, FastConnect, IPSec VPN, and MPLS
-* Data Center Interconnect using dark fiber and DWDM transport
-* Network resilience, failover design, route isolation, and traffic engineering
-* AS141773 operations, peering, and service availability
+* **Network architecture:** Data centre networks, enterprise WAN, Data Center Interconnect, hybrid cloud connectivity, and routing architecture.
+* **Systems integration:** Evaluation and integration of network hardware, software, optical transport, OCI networking, FastConnect, DRG, LPG, IPSec VPN, and MPLS.
+* **Capacity and performance:** Optical budget analysis, route validation, BER and latency testing, availability assessment, and performance documentation.
+* **Resilience and security:** Physically diverse fibre paths, optical protection, redundant VPN failover, route isolation, secure egress, and least-privilege network governance.
+* **Technical coordination:** Requirements analysis, architecture documentation, vendor coordination, implementation supervision, testing, operational handover, and cross-functional collaboration.
 
-Selected Work
+Selected Engineering Work
 ======
 
-* Designed and documented OCI cross-tenancy transit networking using DRG v2, Local Peering Gateway, FastConnect, segmented route tables, and least-privilege IAM controls.
-* Led client-side engineering supervision, validation, and operational handover for a Tier III to Tier IV Data Center Interconnect backbone using dark fiber and 100G coherent DWDM transport.
-* Published practical technical writing on OCI network firewall routing, MTU/TLS troubleshooting, redundant IPSec VPN failover, and resilient DCI design.
+* Designed and documented an OCI cross-tenancy transit architecture using DRG v2, Local Peering Gateway, FastConnect, segmented route tables, and least-privilege IAM controls.
+* Led client-side technical supervision, verification, and operational handover for a Tier III to Tier IV Data Center Interconnect using dark fibre and 100G coherent DWDM transport across approximately 55 km and 65 km diverse routes.
+* Evaluated network capacity, performance, and resilience through optical budget validation, OTDR, optical power, BER, latency, polarity, wavelength, failover, and routing tests.
+* Support network architecture and operations for BDCCL services, including cloud connectivity, routing, peering, service availability, and AS141773 operations.
 
 Recent Technical Writing
 ======
@@ -35,10 +35,12 @@ Recent Technical Writing
 * [Oracle Cloud Infrastructure Network Firewall Routing Design for Secure Egress Inspection](https://medium.com/the-resilience-blueprint/oci-network-firewall-routing-design-for-secure-egress-inspection-in-oci-6a393b739710)
 * [Building Redundant IPSec VPN with IP SLA and Static Route Failover in Cisco Routers](https://medium.com/the-resilience-blueprint/building-redundant-ipsec-vpn-with-ip-sla-and-static-route-failover-in-cisco-routers-fd3ddefd82a0)
 
-Research
+Education & Research
 ======
 
-I co-authored a Springer book chapter on ant-colony optimization based routing in wireless sensor networks:
+I hold an **M.Sc. in Computer Science**, specializing in **Computer Network and Architecture**, from American International University-Bangladesh. I graduated **Summa Cum Laude** with a **3.96/4.00 CGPA** and received a Gold Medal for academic excellence.
+
+I also co-authored a Springer book chapter on routing optimization in wireless sensor networks:
 
 * [An Implementation of Basic Ant-Colony Optimization Based Routing in Wireless Sensor Networks](https://link.springer.com/chapter/10.1007/978-3-031-19958-5_11), Intelligent Computing & Optimization, Springer, 2022.
 

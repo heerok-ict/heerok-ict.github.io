@@ -9,43 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Professional Summary
+Professional Profile
 ======
 
-Heerok Mutsuddy is a network and cloud infrastructure professional working as **Assistant Manager (Network)** at **Bangladesh Data Center Company Limited (BDCCL)**. His work focuses on data center networking, cloud connectivity, resilient backbone design, Data Center Interconnect, optical transport, IP networking, hybrid cloud architecture, and operational governance for mission-critical platforms.
+Computer network and data communications professional with experience researching, planning, designing, evaluating, integrating, testing, and operating information and communication system networks. Currently serving as **Assistant Manager (Network)** at **Bangladesh Data Center Company Limited (BDCCL)**, supporting mission-critical data centre, cloud, backbone, and hybrid-connectivity services.
 
-He has hands-on experience with Oracle Cloud Infrastructure networking, FastConnect, DRG, LPG, IPSec VPN, MPLS, DWDM, dark fiber, optical protection, data center operations, and AS141773 network operations.
+Background includes network architecture, Data Center Interconnect, fibre-optic transport, capacity and performance assessment, cloud networking, enterprise routing, resilience engineering, technical documentation, vendor coordination, and operational handover. Holds an M.Sc. in Computer Science specializing in Computer Network and Architecture, with a 3.96/4.00 CGPA and Summa Cum Laude distinction.
 
-Core Expertise
+**Canadian occupational target:** Network infrastructure engineer, network systems engineer, network architect, data communications specialist, network support engineer, and fibre-optic network designer roles aligned with **[NOC 21311](https://noc.esdc.gc.ca/Structure/NOCProfile?code=21311&version=2021.0)**, TEER 1.
+
+Core Qualifications
 ======
 
-* Data center networking and operations
-* Cloud network architecture
-* Oracle Cloud Infrastructure networking
-* Hybrid connectivity and FastConnect
-* Data Center Interconnect
-* DWDM and optical transport
-* Dark fiber route validation
-* IPSec VPN, MPLS, and enterprise WAN
-* Cisco routing and switching
-* Network resilience and failover design
-* Route isolation and least-privilege network governance
-* AS141773 operations and peering coordination
+* **Network architecture and design:** Data centre networks, LAN/WAN, enterprise routing, DCI, hybrid cloud connectivity, routing architecture, and technical specifications
+* **Network systems integration:** Network hardware and software evaluation, OCI networking, FastConnect, DRG v2, LPG, IPSec VPN, MPLS, Cisco routing and switching
+* **Fibre-optic communications:** Dark fibre, 100G coherent DWDM, OTN, OLP, OADM, optical budget engineering, OTDR, optical power and BER testing
+* **Capacity, performance, and reliability:** Capacity assessment, latency validation, failover testing, route diversity, availability, traffic engineering, and performance documentation
+* **Security and governance:** Network firewall routing, route isolation, secure egress, least-privilege IAM, NSGs, security lists, and operational controls
+* **Technical leadership:** Requirements analysis, design documentation, implementation supervision, supplier and stakeholder coordination, testing, handover, and multidisciplinary teamwork
+* **Network operations:** AS141773, BGP routing, peering coordination, service availability, monitoring, incident troubleshooting, and change support
 
 Professional Experience
 ======
 
 ### Assistant Manager (Network), Bangladesh Data Center Company Limited (BDCCL)
 
-**Bangladesh**
+**Bangladesh | Current**
 
-**Current**
-
-* Work on network architecture, data center connectivity, and operational support for BDCCL's national-scale cloud and data center services.
-* Support hybrid connectivity between on-premises environments, cloud platforms, disaster recovery sites, and government workloads.
-* Contribute to secure and resilient network designs involving IPSec VPN, MPLS, FastConnect, OCI networking, and enterprise routing.
-* Support network operations related to AS141773, including routing, peering, and service availability.
-* Coordinate with application, infrastructure, vendor, and cloud teams to translate service requirements into reliable network designs.
+* Analyze service and stakeholder requirements and translate them into network architecture, connectivity specifications, implementation plans, and operational controls for national-scale cloud and data centre services.
+* Plan, evaluate, and integrate network systems connecting on-premises environments, cloud platforms, disaster-recovery sites, and government workloads.
+* Design and support secure, resilient connectivity using OCI networking, FastConnect, IPSec VPN, MPLS, enterprise routing, segmentation, and failover controls.
+* Assess and document network capacity, performance, routing behaviour, resilience, and service availability to support reliable production operations.
+* Support AS141773 operations, including routing, peering coordination, availability, troubleshooting, and change implementation.
+* Coordinate with infrastructure, application, cloud, security, supplier, and stakeholder teams throughout design, implementation, validation, and operational handover.
 
 Selected Projects
 ======
@@ -56,11 +52,11 @@ Selected Projects
 
 **Technologies:** OCI DRG v2, Local Peering Gateway, FastConnect Private Virtual Circuit, IAM policies, NSG, Security Lists
 
-* Designed and documented a production-grade Oracle Cloud Infrastructure cross-tenancy transit networking architecture.
-* Built a hub-and-spoke design for secure and scalable hybrid connectivity between multiple OCI tenancies and on-premises infrastructure.
-* Designed segmented DRG route tables, dedicated LPG per spoke, and centralized FastConnect connectivity.
-* Used least-privilege cross-tenancy IAM patterns with Define, Endorse, and Admit policies.
-* Included route isolation, validation workflows, packet-flow visualization, troubleshooting guidance, and operational governance considerations.
+* Analyzed cross-tenancy connectivity requirements and designed a production-grade OCI transit network architecture.
+* Developed a hub-and-spoke design integrating multiple OCI tenancies with on-premises infrastructure through centralized FastConnect connectivity.
+* Designed segmented DRG route tables and dedicated LPG connections to control route propagation, isolation, and fault domains.
+* Integrated least-privilege cross-tenancy IAM using Define, Endorse, and Admit policies, supported by NSGs and security lists.
+* Documented system architecture, packet flows, routing behaviour, validation procedures, troubleshooting guidance, and operational governance.
 
 ### Resilient Tier III to Tier IV Data Center Backbone Network
 
@@ -68,13 +64,13 @@ Selected Projects
 
 **Technologies:** DWDM, 100G optical transport, dark fiber, OLP, OADM, OTDR, OTN, Huawei DWDM, Layer-2 DCI, optical budget engineering
 
-* Led client-side engineering supervision, validation, and operational handover for a high-capacity Data Center Interconnect backbone.
-* Connected geographically separated Tier III and Tier IV data centers using leased dark optical fiber and Huawei 100G coherent DWDM transport.
-* Validated physically diverse optical routes with primary and secondary fiber paths of approximately 55 KM and 65 KM.
-* Supervised fiber deployment, splicing quality, route verification, patch management, and NTTN coordination.
-* Performed optical budget validation, OTDR testing, optical power testing, BER testing, latency validation, polarity verification, and wavelength validation.
-* Implemented and validated Optical Line Protection for Layer-1 resiliency.
-* Supported operational readiness through Huawei U2000 monitoring, optical alarm validation, documentation, and handover.
+* Led client-side technical supervision, design verification, testing, and operational handover for a high-capacity Data Center Interconnect backbone.
+* Integrated geographically separated Tier III and Tier IV data centres using leased dark optical fibre and Huawei 100G coherent DWDM transport.
+* Evaluated route diversity and resilience across primary and secondary fibre paths of approximately 55 km and 65 km.
+* Coordinated suppliers and NTTN partners while supervising fibre deployment, splicing quality, route verification, and patch management.
+* Assessed and documented capacity and performance through optical budget analysis, OTDR, optical power, BER, latency, polarity, and wavelength testing.
+* Implemented and validated Optical Line Protection to provide Layer 1 failover and service resilience.
+* Established operational readiness through Huawei U2000 monitoring, alarm validation, technical documentation, knowledge transfer, and handover.
 
 Education
 ======
@@ -91,7 +87,7 @@ Education
 
 **Honor:** Summa Cum Laude / Gold Medal for academic excellence
 
-Publications And Technical Writing
+Research And Technical Communication
 ======
 
 * **[An Implementation of Basic Ant-Colony Optimization Based Routing in Wireless Sensor Networks](https://link.springer.com/chapter/10.1007/978-3-031-19958-5_11)**, Intelligent Computing & Optimization, Springer, 2022.
