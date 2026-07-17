@@ -23,7 +23,7 @@ repository               : "heerok-ict/heerok-ict.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : "profile.jpg"
   name             : "Heerok Mutsuddy"
   pronouns         : # example: "she/her"  
   bio              : "Network infrastructure and data communications professional specializing in data centres, cloud connectivity, fibre-optic DCI, and resilient network architecture."
