@@ -1,7 +1,6 @@
 const header = document.querySelector("[data-header]");
 const nav = document.querySelector("[data-nav]");
 const navToggle = document.querySelector("[data-nav-toggle]");
-const printButton = document.querySelector("[data-print]");
 const year = document.querySelector("[data-year]");
 
 if (year) {
@@ -30,10 +29,6 @@ if (nav && navToggle) {
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape") closeNavigation();
   });
-}
-
-if (printButton) {
-  printButton.addEventListener("click", () => window.print());
 }
 
 const revealItems = document.querySelectorAll(".reveal");
