@@ -266,7 +266,7 @@ h3 {
 .hero-shell {
   position: relative;
   width: min(calc(100% - 48px), var(--max-width));
-  min-height: 610px;
+  min-height: 668px;
   margin-inline: auto;
   display: flex;
   align-items: center;
@@ -406,7 +406,7 @@ h3 {
 .hero-portrait::before {
   content: "";
   position: absolute;
-  inset: -14px 14px 14px -14px;
+  inset: -14px;
   border: 1px solid rgba(98, 194, 184, 0.42);
   border-radius: var(--radius);
 }
