@@ -416,8 +416,6 @@ h3 {
   z-index: 1;
   width: 100%;
   height: auto;
-  aspect-ratio: 1;
-  object-fit: cover;
   border-radius: var(--radius);
   box-shadow: 0 24px 52px rgba(0, 0, 0, 0.28);
 }
@@ -1147,7 +1145,7 @@ h3 {
   }
 
   .hero-portrait {
-    bottom: 160px;
+    bottom: 192px;
     width: 210px;
   }
 
